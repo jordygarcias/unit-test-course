@@ -1,0 +1,15 @@
+{
+  "products": [{
+    "name": "Sandwich",
+    "code": "001",
+    "price": "45"
+  }, {
+    "name": "Waffles",
+    "code": "002",
+    "price": "60"
+  }, {
+    "name": "HotCakes",
+    "code": "003",
+    "price": "55"
+  }]
+}
